@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-brand{
+    color: rgb(0, 187, 255) !important;
+    font-size: 1.2rem;
+}
+.navbar{
+    border-bottom: 1px solid rgb(230, 228, 228);
+    padding: 15px;
+}
+.navbar a{
+    font-size: 1.1rem;
+}
